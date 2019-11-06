@@ -3,7 +3,7 @@
 
 int main()
 {
-    Road road(100);
+    Road road(20);
     //road.show();
     Bike bike;
     bike.run(road);
